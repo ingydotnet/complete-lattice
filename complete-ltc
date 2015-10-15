@@ -1,0 +1,34 @@
+.complete-shell v0.0.1
+
+.cmd ltc
+
+.opt --version
+.opt --help
+
+.sub target
+.sub create
+.sub build-droplet
+.sub export-droplet
+.sub import-droplet
+.sub launch-droplet
+.sub list-droplets
+.sub remove-droplet
+.sub remove
+.sub scale
+.sub update-routes
+.sub update
+.sub cancel-task
+.sub delete-task
+.sub task
+.sub logs
+.sub cells
+.sub list
+.sub status
+.sub visualize
+.sub submit-lrp
+.sub submit-task
+.sub debug-logs
+.sub help
+.sub test
+
+.end
